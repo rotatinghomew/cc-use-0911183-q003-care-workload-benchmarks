@@ -1,0 +1,10 @@
+[
+  {
+    "id": "bathing",
+    "cents_per_unit": 4000
+  },
+  {
+    "id": "meal",
+    "cents_per_unit": 1000
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "g1",
+    "resident": "r1",
+    "effective": "2026-01-01",
+    "recorded": "2026-01-01",
+    "grade": "moderate"
+  },
+  {
+    "id": "g2",
+    "resident": "r1",
+    "effective": "2026-10-15",
+    "recorded": "2026-10-20",
+    "grade": "high"
+  },
+  {
+    "id": "g3",
+    "resident": "r2",
+    "effective": "2026-01-01",
+    "recorded": "2026-01-02",
+    "grade": "low"
+  }
+]

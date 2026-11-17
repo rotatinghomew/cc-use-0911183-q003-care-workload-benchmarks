@@ -1,0 +1,6 @@
+[project]
+name = "care-workload-benchmarks"
+version = "0.1.0"
+description = "共同照护与等级重评下的耗时基准及绩效解释的业务数据服务"
+requires-python = ">=3.11"
+dependencies = ["numpy==2.2.6", "scipy==1.15.3"]

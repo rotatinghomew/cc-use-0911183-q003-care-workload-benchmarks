@@ -1,0 +1,39 @@
+[
+  {
+    "id": "s1",
+    "resident": "r1",
+    "kind": "bathing",
+    "team": "east",
+    "start": "2026-10-10T07:50",
+    "end": "2026-10-10T08:30",
+    "people": [
+      "p1",
+      "p2"
+    ],
+    "status": "completed"
+  },
+  {
+    "id": "s2",
+    "resident": "r2",
+    "kind": "bathing",
+    "team": "west",
+    "start": "2026-10-11T09:00",
+    "end": "2026-10-11T09:20",
+    "people": [
+      "p3"
+    ],
+    "status": "completed"
+  },
+  {
+    "id": "s3",
+    "resident": "r1",
+    "kind": "meal",
+    "team": "east",
+    "start": "2026-10-16T12:00",
+    "end": "2026-10-16T12:20",
+    "people": [
+      "p1"
+    ],
+    "status": "interrupted"
+  }
+]
